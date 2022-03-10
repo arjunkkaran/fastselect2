@@ -60,7 +60,7 @@ Examples:
     }
     ret example={'1':'d1','2':'d2','3':'d3','4':'d4'}
     As {key:value} format
-    Note: fast_input_nameInputFunction, where fast_input_name is dynamically created oninput of #fast_input_name <input>
+    Note: fast_input_nameInputFunction, where InputFunction is dynamically created oninput of #<input>InputFunction
 
     ------------------------------------------->>>> Called when an Item added or removed in fast select
     function fastOnChange(input){
