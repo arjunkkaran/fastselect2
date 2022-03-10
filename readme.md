@@ -1,4 +1,5 @@
 Docs:
+
     selector_template, FastSelectSysmgr, fastSelectList(), trigger() --> Used by System
     fastSelect(input, count?-1, afterPageLoad?0)
         * creates FastSelect. 
