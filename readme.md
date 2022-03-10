@@ -1,5 +1,6 @@
 Docs:
 
+    Please note: jQuery3.7+ is required, Add it before fastselect
     selector_template, FastSelectSysmgr, fastSelectList(), trigger() --> Used by System
     fastSelect(input, count?-1, afterPageLoad?0)
         * creates FastSelect. 
